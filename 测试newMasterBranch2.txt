@@ -1,0 +1,9 @@
+新建newMasterBranch2后的第一次输入
+
+int main()
+{
+
+   return -1;
+}
+
+The first enter after the first commit!
