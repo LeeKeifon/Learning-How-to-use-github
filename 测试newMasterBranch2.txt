@@ -7,3 +7,6 @@ int main()
 }
 
 The first enter after the first commit!
+
+
+Q：Merge以后进行修改，会直接影响master branch?
